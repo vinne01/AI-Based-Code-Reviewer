@@ -1,10 +1,10 @@
-**AI-Based Code Reviewer 🚀**
+                     **AI-Based Code Reviewer 🚀**
 An AI-powered Code Reviewer built using the MERN Stack!
 This project leverages the power of artificial intelligence to analyze, review, and suggest improvements for code, helping developers enhance code quality and efficiency.
 
 Perfect for those who want to learn Full-Stack Development with real-world AI integration!
 
-**🌟 Features**
+                     **🌟 Features**
 🔍 Analyze code snippets using AI
 
 **💬 Get intelligent review comments and suggestions**
@@ -23,9 +23,7 @@ Database: MongoDB
 AI Integration: OpenAI/Gemini API (or your chosen LLM)
 
 **📂 Project Structure**
-bash
-Copy
-Edit
+
 /client     --> React Frontend
 /server     --> Node.js + Express Backend
 /models     --> MongoDB Models
